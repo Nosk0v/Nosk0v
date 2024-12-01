@@ -12,5 +12,8 @@ I’m currently learning Golang
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
 </div>
 
-
+## Connect with me  
+<div align="left">
+alexandernoskov.dev@gmail.com
+</div> 
 
